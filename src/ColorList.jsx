@@ -13,4 +13,4 @@ const ColorList = ({colors}) => {
   )
 }
 
-export default ColorList
+export default ColorList;
